@@ -1,0 +1,146 @@
+[33mcommit 510b84a694b2cf50529be1d652e3c0a8720dce80[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Thu Jul 28 16:35:16 2022 +0530
+
+    need my files back
+
+[33mcommit 9a97a37894cdb6348db9f9726a9a2fff50d7135f[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Thu Jul 28 16:30:57 2022 +0530
+
+    revert "UNDO"
+    galti s ho gya tha
+    This reverts commit 79805b6ee033fc8a97f19b540f7ead8c70ced180.
+
+[33mcommit 79805b6ee033fc8a97f19b540f7ead8c70ced180[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Thu Jul 28 15:56:18 2022 +0530
+
+    UNDO
+
+[33mcommit 283b43919a2829aa5770ab3a04f3f6c61f8d16f3[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:46:08 2022 +0530
+
+    p
+
+[33mcommit 7a44888db116617b17ac0e0bb79eea2760e73eb5[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:44:01 2022 +0530
+
+    s
+
+[33mcommit 82cf2c0649e6501d59f31dbf58dbaffa69d0f74d[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:40:01 2022 +0530
+
+    yes
+
+[33mcommit 54e43536295ca5f85a372ba2581025a62234414d[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:34:55 2022 +0530
+
+    delteing
+
+[33mcommit 181005b2f813dee6897f4d73d014b0d581ebdc18[m
+Merge: 60eeebf e031907
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:31:42 2022 +0530
+
+    Merge branch 'master' of https://github.com/KINGAVIP/dsa
+
+[33mcommit 60eeebfe93e98f36736aaafd58a88cb24ca22220[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:31:13 2022 +0530
+
+    try
+
+[33mcommit e031907313adb87a958f4e90bd1faaf14fe7b38b[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:23:02 2022 +0530
+
+    sorry
+
+[33mcommit b91ebd1b8d1e8ca0d9c174762f811c9921e60b3d[m
+Merge: a7b4efa 8204020
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:19:50 2022 +0530
+
+    Merge branch 'master' of https://github.com/KINGAVIP/dsa
+    sdddd Please enter a commit message to explain why this merge is necessary,
+
+[33mcommit a7b4efa29542a6aa0d4791205ced93fbcedefb2e[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Wed Jul 27 15:18:13 2022 +0530
+
+    OOPS
+
+[33mcommit 82040203dc9e1048a051540d192a5924ed7762bd[m
+Merge: e6b30ef a851489
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Tue Jul 26 18:03:44 2022 +0530
+
+    Merge branch 'master' of https://github.com/KINGAVIP/dsa
+
+[33mcommit e6b30efc572e72f3516b801befa492caa8acc90c[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Tue Jul 26 18:02:04 2022 +0530
+
+    Recursion
+
+[33mcommit a851489beb30cfaf03bdac127672c776b673a308[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Tue Jul 26 17:57:16 2022 +0530
+
+    remove please
+
+[33mcommit 2ae1f8118591c419f7e86fca2a8b49b16437649d[m
+Merge: 22eefe5 17792fc
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Tue Jul 26 17:52:52 2022 +0530
+
+    Merge branch 'master' of https://github.com/KINGAVIP/dsa
+    sas
+
+[33mcommit 22eefe5dc5d3685867d84c6b94a84889348056ac[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Tue Jul 26 17:43:16 2022 +0530
+
+    Recursion
+
+[33mcommit 1e557efe72da457a8d2f0b66bfcb3f658b60feb4[m
+Merge: 64a8204 b20ad85
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Tue Jul 26 17:30:57 2022 +0530
+
+    Merge branch 'master' of https://github.com/KINGAVIP/try
+
+[33mcommit 64a8204b7092fd68cdab60213239e609aa751b2f[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Tue Jul 26 14:45:14 2022 +0530
+
+    recursion
+
+[33mcommit b20ad85c1b47344026768764f3f42a37cda3f083[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Mon Jul 25 14:59:45 2022 +0530
+
+    all are done
+
+[33mcommit f5c6443fbd78f0ef0f3259e74f76433bc6297e2b[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Mon Jul 25 14:58:25 2022 +0530
+
+    initial commit
+
+[33mcommit 9b84d8d82cc7a055edd3918daf4be4049dc5bd09[m
+Author: Avi Pruthi <avipruthi8@gmail.com>
+Date:   Mon Jul 25 14:55:02 2022 +0530
+
+    initital commit
+
+[33mcommit 17792fc8a03f1f7115d5ff90621534ad6d92f872[m
+Author: KING AVI <65505426+KINGAVIP@users.noreply.github.com>
+Date:   Tue Jun 7 01:09:18 2022 +0530
+
+    Add files via upload
